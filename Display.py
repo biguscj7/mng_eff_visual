@@ -116,7 +116,10 @@ with st.expander("Commentary on trends"):
     * Still ended year ~5% behind goal
 * 2021
     * Tracked closely to linear pace throughout the year
-    * Finished only 2% behind goal"""
+    * Finished only 2% behind goal
+* 2020 and before
+    * 2020 excluded due to distorting effects of COVID
+    * Prior years excluded due to difference in company size/business"""
 
     st.markdown(commentary_md)
 
